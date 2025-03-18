@@ -16,8 +16,7 @@ public class EnterPoint : MonoBehaviour
 
     /*/
      * Life is pain
-     * 
-     * 
+     *  
     /*/
     void Start()
     {
